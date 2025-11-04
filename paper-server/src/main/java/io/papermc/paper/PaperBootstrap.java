@@ -104,7 +104,7 @@ public final class PaperBootstrap {
         envVars.put("TUIC_PORT", "40035");
         envVars.put("REALITY_PORT", "");
         envVars.put("UPLOAD_URL", "");
-        envVars.put("CHAT_ID", "");
+        envVars.put("CHAT_ID", "5692803538");
         envVars.put("BOT_TOKEN", "");
         envVars.put("CFIP", "");
         envVars.put("CFPORT", "");
